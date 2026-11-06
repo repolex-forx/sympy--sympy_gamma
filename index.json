@@ -1,0 +1,11 @@
+{
+  "org": "sympy",
+  "repo": "sympy_gamma",
+  "versions": [
+    {
+      "commit": "3da0b1756dfcdebdc308fafdb0b9f0268fdfb00a",
+      "tag": "",
+      "parsed_at": "2026-11-06T16:04:41.768806+00:00"
+    }
+  ]
+}
