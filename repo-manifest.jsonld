@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sympy/sympy_gamma/commit/3da0b1756dfcdebdc308fafdb0b9f0268fdfb00a",
       "git:hexsha": "3da0b1756dfcdebdc308fafdb0b9f0268fdfb00a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T16:04:41.768243+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sympy/sympy_gamma/commit/f8637ea376df526d80d9a75fa5bd40f79312b8e5",
